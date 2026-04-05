@@ -1,0 +1,9 @@
+# Archivos generados por el ETL
+output/
+
+# Archivos generados por Python
+__pycache__/
+*.pyc
+
+# Variables de entorno
+.env

@@ -1,0 +1,11 @@
+id,nombre,apellido,departamento,puesto,sueldo_mensual,fecha_alta,activo
+1,Carlos,Mendoza,Recursos Humanos,Coordinador de Nómina,18500,2019-03-15,true
+2,Laura,Jiménez,Tecnología,Desarrolladora Backend,32000,2021-07-01,true
+3,Roberto,García,Finanzas,Analista Financiero,22000,2018-11-20,true
+4,Ana,Torres,Recursos Humanos,Especialista HRIS,19800,2020-05-10,true
+5,Miguel,Ramírez,Tecnología,Data Engineer,38000,2022-01-15,true
+6,Sofía,López,Operaciones,Coordinadora Operativa,17500,2017-08-30,true
+7,Diego,Hernández,Finanzas,Contador Senior,25000,2016-04-12,true
+8,Valeria,Morales,Tecnología,Analista de Datos,29000,2023-02-28,true
+9,Andrés,Ruiz,Operaciones,Supervisor,21000,2019-09-05,true
+10,Patricia,Flores,Recursos Humanos,Reclutadora,16500,2021-11-18,true
